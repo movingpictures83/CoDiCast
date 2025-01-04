@@ -1,0 +1,2 @@
+pretrained	saved_models/encoder_cnn_56deg_5var.h5
+inputdir	/biorg/data/Weather/

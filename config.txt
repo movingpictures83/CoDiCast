@@ -1,0 +1,4 @@
+Prefix pipelines/CoDiCast/
+Plugin Encoder inputfile /biorg/data/Weather/ outputfile saved_models/encoder_cnn_56deg_5var.h5
+Plugin GaussianDiffusion inputfile parameters.txt outputfile none
+Plugin RMSE inputfile parameters.txt outputfile none
